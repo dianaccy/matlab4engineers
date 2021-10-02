@@ -2,9 +2,13 @@
 Teoría/apuntes de subsección: tx
 Ejercicios de práctica de subsección: epx
 
-Como guía de estudio se utilizó el libro MATLAB para Ingenieros de Holly Moore, pero los ejercicios no son únicamente de este libro.
+A considerar:
 
-Además, habrá ejercicios que no serán consecutivos. Es decir, puede haber el ejercicio ep1 y luego el ep3, que significa que el ejercicio ep2, de la respectiva sección,
+1. Como guía de estudio se utilizó el libro MATLAB para Ingenieros de Holly Moore, pero los ejercicios no son únicamente de este libro.
+
+2. Habrá ejercicios que no serán consecutivos. Es decir, puede haber el ejercicio ep1 y luego el ep3, que significa que el ejercicio ep2, de la respectiva sección,
 no fue tomado en cuenta por cualquier razón (sin relevancia, muy sencillo, etc.). Lo mismo aplica para las secciones o teoría/apuntes.
 
-Si lo requiere se dejará constancia del libro fuente de donde se obtengan ejercicios extra.
+3. La numeración de las secciones, teoría/apuntes y ejercicios seguirá la del libro guía.
+
+4. Si lo requiere se dejará constancia del libro fuente de donde se obtengan ejercicios extra.
