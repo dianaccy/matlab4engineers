@@ -1,10 +1,9 @@
-Secciones: sx
-Teoría/apuntes: tx
-Ejercicios:
-	Fácil: esx
-	Difícil: hdx
+﻿Secciones: sx
+Teoría/apuntes de subsección: tx
+Ejercicios de práctica de subsección: epx
 
-Como guía de estudio se utilizó el libro MATLAB para Ingenieros de Holly Moore,
-pero los ejercicios no son únicamente de este libro.
-Si lo requiere se dejará constancia del libro fuente de donde se obtengan
-ejercicios extra.
+Como guía de estudio se utilizó el libro MATLAB para Ingenieros de Holly Moore, pero los ejercicios no son únicamente de este libro.
+
+Además, habrá ejercicios que no serán consecutivos. Es decir, puede haber el ejercicio ep1 y luego el ep3, que significa que el ejercicio ep2, de la respectiva sección, no fue tomado en cuenta por cualquier razón (sin relevancia, muy sencillo, etc.). Lo mismo aplica para las secciones o teoría/apuntes.
+
+Si lo requiere se dejará constancia del libro fuente de donde se obtengan ejercicios extra.
