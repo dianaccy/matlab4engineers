@@ -3,3 +3,8 @@ Teoría/apuntes: tx
 Ejercicios:
 	Fácil: esx
 	Difícil: hdx
+
+Como guía de estudio se utilizó el libro MATLAB para Ingenieros de Holly Moore,
+pero los ejercicios no son únicamente de este libro.
+Si lo requiere se dejará constancia del libro fuente de donde se obtengan
+ejercicios extra.
