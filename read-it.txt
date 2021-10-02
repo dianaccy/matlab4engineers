@@ -1,0 +1,5 @@
+Secciones: sx
+Teoría/apuntes: tx
+Ejercicios:
+	Fácil: esx
+	Difícil: hdx
