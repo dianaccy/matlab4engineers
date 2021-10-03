@@ -18,9 +18,9 @@ no fue tomado en cuenta por cualquier razón (sin relevancia, muy sencillo, etc.
 
 5. La mayoría de archivos son .mlx, es decir, fueron realizados en el Live Editor debido a su sencilla curva de aprendizaje. 
 
-6. Cada capítulo cx tiene su live script de resumen (abstract).
+6. Cada capítulo cx tiene su live script de resumen (abstract) y su lista de temas tratados (topics).
 
 7. Si los problemas son demasiado cortos, se realizarán varios en un mismo live script con la notación pxtoy. Por ejemplo, p3to6 serían los problemas del 3 al 6.
 
-8. No todos los ejemplos resueltos de los subcapítulos serán realidas justamente porque ya están resueltos con una descripción de los procedimientos bastante
-buena. Sin embargo, se realizarán los que se crea más convenientes para entenderlos a cabalidad.
+8. No todos los ejemplos resueltos de los subcapítulos serán realizados justamente porque ya están resueltos en el libro con una descripción de los procedimientos bastante
+buena. Sin embargo, se realizarán los que se consideren convenientes para entenderlos a cabalidad.
