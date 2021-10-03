@@ -1,0 +1,22 @@
+﻿Secciones: sx					(Ejemplo: s2, s5)
+Teoría/apuntes de subsección: tx		(Ejemplo: t4, t9)
+Ejercicios de práctica de subsección: epx	(Ejemplo: ep1, ep7)
+Problemas de cada sección: px			(Ejemplo: p1, p3, p5to8)
+donde x={1,2,3,4,...}
+
+A considerar:
+
+1. Como guía de estudio se utilizó el libro MATLAB para Ingenieros de Holly Moore, pero los ejercicios no son únicamente de este libro.
+
+2. Habrá ejercicios que no serán consecutivos. Es decir, puede haber el ejercicio ep1 y luego el ep3, que significa que el ejercicio ep2, de la respectiva sección,
+no fue tomado en cuenta por cualquier razón (sin relevancia, muy sencillo, etc.). Lo mismo aplica para las secciones, teoría/apuntes o problemas.
+
+3. La numeración de las secciones, teoría/apuntes y ejercicios seguirá la del libro guía.
+
+4. Si lo requiere se dejará constancia del libro fuente de donde se obtengan ejercicios extra.
+
+5. La mayoría de archivos son .mlx, es decir, fueron realizados en el Live Editor debido a su sencilla curva de aprendizaje. 
+
+6. Cada sección sx tiene su live script de resumen (abstract).
+
+7. Si los problemas son demasiado cortos, se realizarán varios en un mismo live script con la notación pxtoy. Por ejemplo, p3to6 que serían los problemas del 3 al 6.
