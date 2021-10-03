@@ -1,4 +1,6 @@
-﻿Capítulo: cx					(Ejemplo: c2, c5)
+﻿Nomenclatura del repositorio:
+
+Capítulo: cx					(Ejemplo: c2, c5)
 Teoría/apuntes de subcapítulo: tx		(Ejemplo: t4, t9)
 Ejemplos resueltos de subcapítulo: exx		(Ejemplo: ex1, ex8)
 Ejercicios de práctica de subcapítulo: epx	(Ejemplo: ep1, ep7)
