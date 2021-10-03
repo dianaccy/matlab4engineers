@@ -1,0 +1,23 @@
+Ambiente de MATLAB
+	-Operaciones con arreglos
+	-Despliegue de números
+		-Notación científica
+		-Formato de despliegue
+
+Guardar el trabajo
+	-Guardar variables
+		-Comando save
+		-Comando load
+		-Comando whos
+	-Guardar código (scripts)
+		-Recomendaciones para nombrar un script
+	-Comentarios
+		-Comentarios largos
+
+Resumen (abstract)
+	-Caracteres especiales
+	-Comandos y funciones
+	-Funciones importantes de la sección
+		-Función linspace
+		-Función logspace
+		-Función deg2rad y rad2deg

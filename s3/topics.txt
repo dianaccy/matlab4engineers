@@ -1,0 +1,25 @@
+Preliminares
+	-Comando help.
+	-Documentación de MATLAB.
+Funciones matemáticas elementales
+	-Cálculos comunes.
+		-Diferencia entre la función log y log10.
+	-Funciones matemáticas comunes.
+	-Funciones de redondeo.
+	-Matemáticas discretas.
+Funciones trigonométricas
+Funciones de análisis de datos
+	-Máximo y mínimo.
+	-Media y mediana.
+	-Sumas y productos.
+	-Valores de ordenación.
+	-Determinación del tamaño de una matriz.
+	-Varianza y desviación estándar.
+Números aleatorios
+	-Números aleatorios uniformes.
+	-Números aleatorios gaussianos.
+Números complejos
+Limitaciones computacionales
+	-Desbordamiento de exponente.
+	-Subdesbordamiento de exponente.
+Valores especiales y funciones varias (revisar para números complejos o limitaciones computacionales especialmente).
