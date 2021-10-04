@@ -1,8 +1,8 @@
 ﻿Nomenclatura del repositorio:
 
 Capítulo: cx					(Ejemplo: c2, c5)
-Teoría/apuntes de subcapítulo: tx		(Ejemplo: t4, t9)
-Ejemplos resueltos de subcapítulo: exx		(Ejemplo: ex1, ex8)
+Teoría/apuntes de subcapítulo: scx		(Ejemplo: sc4, sc9)
+Ejemplos resueltos de subcapítulo: erx		(Ejemplo: er1, er8)
 Ejercicios de práctica de subcapítulo: epx	(Ejemplo: ep1, ep7)
 Problemas de cada capítulo: px			(Ejemplo: p1, p3, p5to8)
 donde x={1,2,3,4,...}
@@ -12,7 +12,7 @@ A considerar:
 1. Los ejercicios no son únicamente del libro guía, habrán algunos que se tomaron de otras fuentes.
 
 2. Habrá ejercicios que no serán consecutivos. Es decir, puede haber el ejercicio ep1 y luego el ep3, que significa que el ejercicio ep2, de la respectiva sección,
-no fue tomado en cuenta por cualquier razón (sin relevancia, muy sencillo, etc.). Lo mismo aplica para los capítulos, teoría/apuntes o problemas.
+no fue tomado en cuenta por cualquier razón (sin relevancia, muy sencillo, etc.). Lo mismo aplica para los capítulos, teoría/apuntes, problemas, etc.
 
 3. La numeración de los capítulos, teoría/apuntes y ejercicios seguirá la del libro guía.
 
@@ -22,11 +22,15 @@ no fue tomado en cuenta por cualquier razón (sin relevancia, muy sencillo, etc.
 
 6. Cada capítulo cx tiene su live script de resumen (abstract) y su lista de temas tratados (topics).
 
-7. Si los problemas son demasiado cortos, se realizarán varios en un mismo live script con la notación pxtoy. Por ejemplo, p3to6 serían los problemas del 3 al 6.
+7. Si los problemas son demasiado cortos, se realizarán varios en un mismo live script con la notación px1tx2. Por ejemplo, p3to6 serían los problemas del 3 al 6.
 
 8. No todos los ejemplos resueltos de los subcapítulos serán realizados justamente porque ya están resueltos en el libro con una descripción de los procedimientos bastante
 buena. Sin embargo, se realizarán los que se consideren convenientes para entenderlos a cabalidad.
 
 Libro guía: "MATLAB para Ingenieros" de Holly Moore. Editorial Pearson.
-IMPORTANTE: Toda la información presentada en este repositorio utiliza como fuente el libro guía, por lo que la información pertenece al autor/a.
-Pero se han añadido anotaciones o aclaraciones en donde se vio necesario.
+IMPORTANTE:
+	-Toda la información presentada en este repositorio utiliza como fuente el libro guía, por lo que la información pertenece al autor/a. Pero se añadieron anotaciones
+	donde se consideró necesario.
+	-El uso de los archivos es libre. Sólo se solicita dar los créditos respectivos al autor/a del libro guía y al creador de este repositorio.
+
+By: Isacc Alpala.
