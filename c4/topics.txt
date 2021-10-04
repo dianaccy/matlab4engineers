@@ -1,0 +1,23 @@
+Manipulación de matrices
+	-Definición de matrices.
+		-Mediante corchetes.
+		-Mediante otras matrices.
+		-Mediante elipsis.
+		-Mediante indexación.
+		-Mediante el operador dos puntos :
+Indexación
+	-Reemplazar elementos
+Uso del operador dos puntos :
+	-Extraer elementos o matrices de una matriz más grande.
+	-Palabra reservada end.
+	-Pasar de una matriz bidimensional a una matriz unidimensional.
+Problemas con dos variables
+	-Función meshgrid.
+		-Explicación detallada de la función meshgrid.
+Matrices especiales
+	-Matriz vacía.
+	-Matriz de ceros.
+	-Matriz de unos.
+	-Matriz diagonal.
+	-Matriz mágica.
+	-Tabla de resumen de matrices especiales
