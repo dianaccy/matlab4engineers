@@ -1,0 +1,18 @@
+Creación de archivos .m y .mlx de función
+	-Sintaxis
+	-Comentarios
+		-Para function .m
+		-Para live function .mlx
+	-Funciones con entradas y salidas múltiples
+		-Múltiples entradas
+		-Múltiples salidas
+		-Múltiples entradas y salidas
+	-Funciones sin entrada y sin salida
+	-Determinación del número de argumentos de entrada y salida
+		-Función nargin
+		-Función nargout
+	-Variables locales
+	-Variables globales
+	-Acceso a código de archivo .m
+Creación de una caja de herramientas de funciones (toolbox)
+Funciones anónimas
