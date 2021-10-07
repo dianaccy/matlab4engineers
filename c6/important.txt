@@ -1,0 +1,2 @@
+Debido a que en este capítulo se trabajarán con la creación de funciones (que tienen la misma extensión que un live script .mlx y sólo se diferencia en el current folder
+de MATLAB) los ejercicios, ejemplos y problemas se desarrollarán dentro de carpetas con la nomenclatura respectiva. 
