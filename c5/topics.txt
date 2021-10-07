@@ -1,0 +1,37 @@
+Gráficas bidimensionales
+	-Graficación básica con función plot
+		-Títulos, etiquetas y retículas
+		-Creación de gráficas múltiples
+			-Función figure
+			-Comando pause
+		-Gráficas con más de una línea con comando hold
+		-Función peaks
+		-Gráficas de arreglos complejos
+	-Línea, color y estilo de marca
+	-Escalamiento de ejes y anotaciones
+	-Uso de símbolos especiales (lenguaje LaTeX)
+	-Tablas de resumen
+		-Funciones de gráficación básica
+		-Opciones de línea, marca y color
+		-Escalamiento de ejes y anotaciones
+Subgráficas
+	-Función subplot
+Otros tipos de gráficas bidimensionales
+	-Gráficas polares
+	-Gráficas logarítmicas
+	-Gráficas de barras y de pastel
+	-Histogramas
+	-Gráficas x-y con dos ejes y
+		-Añadir la etiqueta a cada eje y
+Gráficas tridimensionales
+	-Gráfica lineal tridimensional con función plot3
+		-Función comet3
+		-Gráficas de superficie
+			-Gráficas mesh
+			-Gráficas surf
+			-Comando shading
+			-Comando colormap
+		-Gráficas de contorno
+		-Gráficas en pseudocolor
+Edición de gráficas desde la barra de menú
+Tabla resumen de gráficas en 3D
