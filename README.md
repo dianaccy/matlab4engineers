@@ -10,11 +10,11 @@ Toda la información presentada en este repositorio utiliza como fuente el libro
 
 ### Nomenclatura del repositorio
 
-Capítulo: **c**
-Teoría/apuntes de subcapítulo: **sc**
-Ejemplos resueltos de subcapítulo: **er**
-Ejercicios de práctica de subcapítulo: **ep**
-Problemas de cada capítulo: **p**
+- Capítulo: **c**
+- Teoría/apuntes de subcapítulo: **sc**
+- Ejemplos resueltos de subcapítulo: **er**
+- Ejercicios de práctica de subcapítulo: **ep**
+- Problemas de cada capítulo: **p**
 
 ### Consideraciones
 1. Los ejercicios no son únicamente del libro guía, habrán algunos que se tomaron de otras fuentes.
