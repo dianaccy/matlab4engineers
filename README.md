@@ -2,7 +2,8 @@
 
 #### Este respositorio es de apuntes y ejercicios de MATLAB.
 
-**Libro guía:** MATLAB para Ingenieros de Holly Moore. Editorial Pearson.
+## Libro guía
+MATLAB para Ingenieros de Holly Moore. Editorial Pearson.
 
 Toda la información presentada en este repositorio utiliza como fuente el libro guía, por lo que la información pertenece al autor/a. Pero se añadieron anotaciones donde se consideró necesario.
 
