@@ -21,7 +21,7 @@ Toda la información presentada en este repositorio utiliza como fuente el libro
 
 2. Habrá ejercicios que no serán consecutivos. Es decir, puede haber el ejercicio **ep1** y luego el **ep3**, que significa que el ejercicio **ep2**, de la respectiva sección, no fue tomado en cuenta por cualquier razón (sin relevancia, muy sencillo, etc.). Lo mismo aplica para los capítulos, teoría/apuntes, problemas, etc.
 
-3. La numeración de los capítulos, teoría/apuntes y ejercicios seguirá la del libro guía.
+3. La numeración de los capítulos, teoría/apuntes, ejercicios, etc.; seguirá la del libro guía.
 
 4. Si lo requiere se dejará constancia del libro fuente de donde se obtengan ejercicios extra.
 
