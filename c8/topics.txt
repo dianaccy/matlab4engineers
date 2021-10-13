@@ -1,0 +1,40 @@
+   Introducción a las funciones lógicas y estructras de control
+
+1. Operadores relaciones y lógicos
+	-Ejemplo
+
+2. Diagramas de flujo y pseudocódigo
+	-Pseudocódigo
+		-Ejemplo
+	-Diagramas de flujo
+		-Ejemplo
+	-Ejemplo con pseudocódigo y diagrama de flujo
+
+3. Funciones lógicas
+	-Función find
+		-Por índices
+		-Por subíndices
+	-Función all
+	-Función any
+
+4. structuras de selección
+	-Estructura if simple
+	-Estructura if/else
+	-Estructura elseif
+	-Estructura switch y case
+		-Función menu
+
+5. Estructuras de repetición
+	-Bucles for
+		-Aplicación: crear matrices
+			-Vectorización del código
+		-Aplicación: combinar con estructura if
+		-Resumen del bucle for
+	-Bucles while
+		-Aplicaciones
+	-Break y continue
+	-Cómo mejorar la eficiencia de los bucles
+
+   Resumen
+
+   Funciones importantes del capítulo
