@@ -39,8 +39,8 @@ Como se mencionó, la información del respositorio está basado en el libro gu�
 
 ## Contenido
 2. Ambiente MATLAB
- - Resolución de problemas con MATLAB
- - Guardar el trabajo
+   - Resolución de problemas con MATLAB
+   - Guardar el trabajo
 3. Funciones internas de MATLAB
  - Funciones matemáticas elementales
  - Funciones trigonométricas
