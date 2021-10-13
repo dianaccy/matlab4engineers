@@ -39,16 +39,16 @@ Como se mencionó, la información del respositorio está basado en el libro gu�
 
 ## Contenido
 2. Ambiente MATLAB
-   - Resolución de problemas con MATLAB
-   - Guardar el trabajo
+    - Resolución de problemas con MATLAB
+    - Guardar el trabajo
 3. Funciones internas de MATLAB
- - Funciones matemáticas elementales
- - Funciones trigonométricas
- - Funciones de análisis de datos
- - Números aleatorios
- - Números complejos
- - Limitaciones computacionales
- - Valores especiales y funciones varias
+    - Funciones matemáticas elementales
+    - Funciones trigonométricas
+    - Funciones de análisis de datos
+    - Números aleatorios
+    - Números complejos
+    - Limitaciones computacionales
+    - Valores especiales y funciones varias
 4. Manipulación de matrices MATLAB
  - Manipulación de matrices
  - Indexación
