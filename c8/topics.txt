@@ -1,6 +1,6 @@
    Introducción a las funciones lógicas y estructras de control
 
-1. Operadores relaciones y lógicos
+1. Operadores relacionales y lógicos
 	-Ejemplo
 
 2. Diagramas de flujo y pseudocódigo
@@ -17,7 +17,7 @@
 	-Función all
 	-Función any
 
-4. structuras de selección
+4. Estructuras de selección
 	-Estructura if simple
 	-Estructura if/else
 	-Estructura elseif
