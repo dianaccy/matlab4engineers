@@ -1,10 +1,10 @@
-Ambiente de MATLAB
+3. Ambiente de MATLAB
 	-Operaciones con arreglos
 	-Despliegue de números
 		-Notación científica
 		-Formato de despliegue
 
-Guardar el trabajo
+4. Guardar el trabajo
 	-Guardar variables
 		-Comando save
 		-Comando load
@@ -14,10 +14,9 @@ Guardar el trabajo
 	-Comentarios
 		-Comentarios largos
 
-Resumen (abstract)
-	-Caracteres especiales
-	-Comandos y funciones
-	-Funciones importantes de la sección
-		-Función linspace
-		-Función logspace
-		-Función deg2rad y rad2deg
+  Resumen (abstract)
+
+  Funciones importantes de la sección
+	-Función linspace
+	-Función logspace
+	-Función deg2rad y rad2deg

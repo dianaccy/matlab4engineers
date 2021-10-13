@@ -1,4 +1,4 @@
-Creación de archivos .m y .mlx de función
+1. Creación de archivos .m y .mlx de función
 	-Sintaxis
 	-Comentarios
 		-Para function .m
@@ -14,5 +14,9 @@ Creación de archivos .m y .mlx de función
 	-Variables locales
 	-Variables globales
 	-Acceso a código de archivo .m
-Creación de una caja de herramientas de funciones (toolbox)
-Funciones anónimas
+
+2. Creación de una caja de herramientas de funciones (toolbox)
+
+3. Funciones anónimas
+
+   Resumen

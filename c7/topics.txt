@@ -1,11 +1,13 @@
-Entrada definida por el usuario
+1. Entrada definida por el usuario
 	-Función input
 	-Función ginput
-Opciones de salida
+
+2. Opciones de salida
 	-Función disp
 		-Función num2str
 	-Función fprintf
-Lectura y escritura de datos desde archivos
+
+5. Lectura y escritura de datos desde archivos
 	-Importación de datos
 		-Función readmatrix
 		-Función readtable
@@ -15,3 +17,9 @@ Lectura y escritura de datos desde archivos
 		-Función writematrix
 		-Función writetable
 		-Función writecell
+
+   Resumen
+
+   Funciones importantes del capítulo
+	-De importanción
+	-De exportación
