@@ -36,3 +36,71 @@ Toda la información presentada en este repositorio utiliza como fuente el libro
 
 ## Observación
 Como se mencionó, la información del respositorio está basado en el libro guía. Por ende, se planea completar los 13 capítulos del mismo aunque los temas principales para dominar MATLAB son hasta el capítulo 8 el cual ya está finalizado y subido.
+
+## Contenido
+2. Ambiente MATLAB
+ - Resolución de problemas con MATLAB
+ - Guardar el trabajo
+3. Funciones internas de MATLAB
+ - Funciones matemáticas elementales
+ - Funciones trigonométricas
+ - Funciones de análisis de datos
+ - Números aleatorios
+ - Números complejos
+ - Limitaciones computacionales
+ - Valores especiales y funciones varias
+4. Manipulación de matrices MATLAB
+ - Manipulación de matrices
+ - Indexación
+ - Problemas con dos variables
+ - Matrices especiales
+5. Graficación
+ - Gráficas bidimensionales
+ - Subgráficas
+ - Otros tipos de gráficas bidimensionales
+ - Gráficas tridimensionales
+ - Edición de gráficas desde la barra de menú
+6. Funciones definidas por el usuario
+ - Creación de archivos .m y .mlx de función
+ - Creación de una caja de herramientas de funciones (toolbox)
+ - Funciones anónimas
+7. Entrada y salida controladas por el usuario
+ - Entrada definida por el usuario
+ - Opciones de salida
+ - Lectura y escritura de datos desde archivos (importación y exportación de datos)
+8. Funciones lógicas y estructuras de control
+ - Operadores relacionales y lógicos
+ - Diagramas de flujo y pseudocódigo
+ - Funciones lógicas
+ - Estructuras de selección
+ - Estructuras de repetición (bucles)
+9. Álgebra matricial (**pendiente**)
+ - Operaciones y funciones de matrices
+ - Soluciones de sistemas de ecuaciones lineales
+ - Matrices especiales
+10. Otros tipos de arreglos (**pendiente**)
+ - Tipos de datos
+ - Arreglos multidimensionales
+ - Arreglos caracter
+ - Arreglos celda (o célula)
+ - Arreglos estructura
+11. Matemática simbólica (**pendiente**)
+ - Álgebra simbólica
+ - Resolución de expresiones y ecuaciones
+ - Graficación simbólica
+ - Cálculo
+ - Ecuaciones diferenciales
+12. Técnicas numéricas (**pendiente**)
+ - Interpolación
+ - Ajuste de curvas
+ - Uso de las herramientas de ajuste interactivas
+ - Diferencias y diferenciación numérica
+ - Integración numérica
+ - Resolución numérica de ecuaciones diferenciales
+13. Gráficos avanzados (**pendiente**)
+ - Imágenes
+ - Manipulación de gráficos
+ - Animación
+ - Otras técnicas de visualización
+ - Introducción a la visualización de volumen
+
