@@ -35,7 +35,7 @@ Toda la información presentada en este repositorio utiliza como fuente el libro
 8. No todos los ejemplos resueltos de los subcapítulos serán realizados justamente porque ya están resueltos en el libro con una descripción de los procedimientos bastante buena. Sin embargo, se realizarán los que se consideren convenientes para entenderlos a cabalidad.
 
 ## Observación
-Como se mencionó, la información del respositorio está basado en el libro guía. Por ende, se planea completar los 13 capítulos del mismo aunque los temas principales para dominar MATLAB son hasta el capítulo 8. Estos temas básicos ya está finalizados y subidos.
+Como se mencionó, la información del respositorio está basada en el libro guía. Por ende, se planea completar los 13 capítulos del mismo aunque los temas principales para dominar MATLAB son hasta el capítulo 8. Estos temas básicos ya están finalizados y subidos.
 
 ## Contenido
 2. Ambiente MATLAB
@@ -74,7 +74,7 @@ Como se mencionó, la información del respositorio está basado en el libro gu�
      - Funciones lógicas
      - Estructuras de selección
      - Estructuras de repetición (bucles)
-9. Álgebra matricial (**pendiente**)
+9. Álgebra matricial
      - Operaciones y funciones de matrices
      - Soluciones de sistemas de ecuaciones lineales
      - Matrices especiales
