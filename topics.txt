@@ -1,0 +1,20 @@
+1. Operaciones y funciones de matrices
+	-Transpuesta
+	-Producto punto
+	-Multiplicación matricial
+	-Pontencias de matrices
+	-Inverso de una matriz
+	-Determinantes
+	-Producto cruz
+
+2. Soluciones de sistemas de ecuaciones
+	-Solución con el uso de la matriz inversa
+	-Solución con la división izquierda de matriz
+	-Aclaración de los métodos
+
+3. Matrices especiales
+	-Unos y ceros
+	-Matriz identidad
+	-Otras matrices
+
+***Resumen
