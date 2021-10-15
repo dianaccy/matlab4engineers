@@ -31,7 +31,7 @@
 
 9. Valores especiales y funciones varias (revisar para números complejos o limitaciones computacionales especialmente).
 
-  Resumen
+***Resumen
 
-  Operador importante del capítulo
+***Operador importante del capítulo
 	-Dos puntos (:)

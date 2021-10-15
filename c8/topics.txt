@@ -35,6 +35,6 @@
 	-Break y continue
 	-Cómo mejorar la eficiencia de los bucles
 
-   Resumen
+***Resumen
 
-   Funciones importantes del capítulo
+***Funciones importantes del capítulo

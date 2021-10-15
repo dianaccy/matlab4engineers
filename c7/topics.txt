@@ -18,8 +18,8 @@
 		-Función writetable
 		-Función writecell
 
-   Resumen
+***Resumen
 
-   Funciones importantes del capítulo
+***Funciones importantes del capítulo
 	-De importanción
 	-De exportación

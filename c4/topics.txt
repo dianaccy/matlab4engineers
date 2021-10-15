@@ -25,7 +25,7 @@
 	-Matriz mágica.
 	-Tabla de resumen de matrices especiales
 
-  Resumen
+***Resumen
 
-  Función importante del capítulo
+***Función importante del capítulo
 	-Función meshgrid

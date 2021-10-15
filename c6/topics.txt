@@ -19,4 +19,4 @@
 
 3. Funciones anónimas
 
-   Resumen
+***Resumen

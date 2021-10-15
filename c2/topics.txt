@@ -14,9 +14,9 @@
 	-Comentarios
 		-Comentarios largos
 
-  Resumen (abstract)
+***Resumen (abstract)
 
-  Funciones importantes de la sección
+***Funciones importantes de la sección
 	-Función linspace
 	-Función logspace
 	-Función deg2rad y rad2deg

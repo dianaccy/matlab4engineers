@@ -39,6 +39,6 @@
 
 5. Edición de gráficas desde la barra de menú
 
-   Tabla resumen de gráficas en 3D
+***Tabla resumen de gráficas en 3D
 
-   Resumen
+***Resumen
