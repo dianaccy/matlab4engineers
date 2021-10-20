@@ -28,7 +28,7 @@ Toda la información presentada en este repositorio utiliza como fuente el libro
 
 5. La mayoría de archivos son **.mlx**, es decir, fueron realizados en el Live Editor debido a su sencilla curva de aprendizaje.
 
-6. Cada capítulo tiene su live script de resumen (abstract) y su lista de temas tratados (topics).
+6. Cada capítulo tiene su live script de resumen (summary) y su lista de temas tratados (topics).
 
 7. Si los problemas son demasiado cortos, se realizarán varios en un mismo live script con la notación pxtoy. Por ejemplo, **p3to6** serían los problemas del 3 al 6. Lo mismo aplica para subcapítulos, capítulos, etc.
 
