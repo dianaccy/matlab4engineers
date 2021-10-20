@@ -1,0 +1,37 @@
+1. Tipos de datos
+	-Datos numéricos
+		-Números punto flotante de precisión doble
+		-Números punto flotante de precisión sencilla
+			-Ejemplo de double VS. single
+		-Números enteros
+		-Números complejos
+	-Datos caracter y cadena
+		-Esquemas de codificación ASCII y EBCDIC
+	-Datos simbólicos
+	-Datos lógicos
+	-Arreglos esparcidos
+
+2. Arreglos multidimensionales
+
+3. Arreglos caracter
+	-Función num2str y str2num
+
+4. Arreglos celda (o célula)
+	-Función celldisp
+	-Indexación en arreglos celda
+		-Indexación con paréntesis
+		-Indexación con llaves
+		-Indexación con paréntesis y llaves
+
+5. Arreglos estructura
+	-Acceso a campos/elementos en arreglos estructura
+
+6. Arreglos tabla
+	-Acceso a campos/elementos en arreglos tabla
+	-Propiedad Properties
+
+***Aclaración para uso de arreglos
+
+***Resumen
+
+***Resumen del tipo de datos en MATLAB
