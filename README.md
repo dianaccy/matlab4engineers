@@ -34,7 +34,7 @@ Toda la información presentada en este repositorio utiliza como fuente el libro
 
 8. No todos los ejemplos resueltos de los subcapítulos serán realizados justamente porque ya están resueltos en el libro con una descripción de los procedimientos bastante buena. Sin embargo, se realizarán los que se consideren convenientes para entenderlos a cabalidad.
 
-9. Hay algunos temas que están desactualizados (**importación y exportación de datos**, por ejemplo) que fueron actualizados en este repositorio. Además, hay temas que no están en el libro guía (**arreglos tabla**, por ejemplo), pero también están añadidos aquí.
+9. Hay algunos temas que están desactualizados en el libro guía (**importación y exportación de datos**, por ejemplo) que fueron actualizados en este repositorio. Además, hay temas que no están en el libro guía (**arreglos tabla**, por ejemplo), pero sí están añadidos aquí.
 
 ## Observación
 Como se mencionó, la información del respositorio está basada en el libro guía. Por ende, se planea completar los 13 capítulos del mismo aunque los temas principales para dominar MATLAB son hasta el capítulo 8. Estos temas básicos ya están finalizados y subidos.
