@@ -78,12 +78,13 @@ Como se mencionó, la información del respositorio está basada en el libro gu�
      - Operaciones y funciones de matrices
      - Soluciones de sistemas de ecuaciones lineales
      - Matrices especiales
-10. Otros tipos de arreglos (**pendiente**)
+10. Otros tipos de arreglos
      - Tipos de datos
      - Arreglos multidimensionales
      - Arreglos caracter
      - Arreglos celda (o célula)
      - Arreglos estructura
+     - Arreglos tabla (*material extra*)
 11. Matemática simbólica (**pendiente**)
      - Álgebra simbólica
      - Resolución de expresiones y ecuaciones
