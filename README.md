@@ -87,7 +87,7 @@ Como se mencionó, la información del respositorio está basada en el libro gu�
      - Arreglos celda (o célula)
      - Arreglos estructura
      - Arreglos tabla (*material extra*)
-11. Matemática simbólica (**pendiente**)
+11. Matemática simbólica
      - Álgebra simbólica
      - Resolución de expresiones y ecuaciones
      - Graficación simbólica
