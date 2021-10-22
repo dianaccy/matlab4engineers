@@ -34,6 +34,8 @@ Toda la información presentada en este repositorio utiliza como fuente el libro
 
 8. No todos los ejemplos resueltos de los subcapítulos serán realizados justamente porque ya están resueltos en el libro con una descripción de los procedimientos bastante buena. Sin embargo, se realizarán los que se consideren convenientes para entenderlos a cabalidad.
 
+9. Hay algunos temas que están desactualizados en el libro guía (**importación y exportación de datos**, por ejemplo) que fueron actualizados en este repositorio. Además, hay temas que no están en el libro guía (**arreglos tabla**, por ejemplo), pero sí están añadidos aquí.
+
 ## Observación
 Como se mencionó, la información del respositorio está basada en el libro guía. Por ende, se planea completar los 13 capítulos del mismo aunque los temas principales para dominar MATLAB son hasta el capítulo 8. Estos temas básicos ya están finalizados y subidos.
 
@@ -78,12 +80,13 @@ Como se mencionó, la información del respositorio está basada en el libro gu�
      - Operaciones y funciones de matrices
      - Soluciones de sistemas de ecuaciones lineales
      - Matrices especiales
-10. Otros tipos de arreglos (**pendiente**)
+10. Otros tipos de arreglos
      - Tipos de datos
      - Arreglos multidimensionales
      - Arreglos caracter
      - Arreglos celda (o célula)
      - Arreglos estructura
+     - Arreglos tabla (*material extra*)
 11. Matemática simbólica (**pendiente**)
      - Álgebra simbólica
      - Resolución de expresiones y ecuaciones
