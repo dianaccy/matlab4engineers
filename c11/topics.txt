@@ -1,0 +1,62 @@
+1. Álgebra simbólica
+	-Creación de variables simbólicas: comandos sym, syms
+		-Función str2sym
+		-Función sym2poly y poly2sym
+	-Manipulación de expresiones y ecuaciones simbólicas
+		-Extracción de numeradores y denominadores: función numden
+	-Expansión de expresiones (expand), factorización de expresiones (factor) y recolección de términos (collect)
+	-Simplificación de funciones
+	-Resumen de funciones que se usan para manipular expresiones y ecuaciones
+
+2. Resolución de expresiones y ecuaciones
+	-Función solve
+		-Para expresiones con una variable
+		-Para expresiones con múltiples variables
+		-Para ecuaciones
+		-Consideración cuando se utiliza la función solve
+	-Resolución de sistemas de ecuaciones
+		-Sistemas de ecuaciones con función solve VS. solución matricial
+	-Tabla resumen del uso de la función solve
+	-Sustitución/evaluación de expresiones
+		-Renombrar variables
+		-Evaluar una expresión
+
+3. Graficación simbólica
+	-Función ezplot y fplot
+		-Funciones implícitas
+		-Funciones paramétricas
+		-Comando hold
+	-Gráficas simbólicas adicionales
+	-Documentación de las gráficas de funciones simbólicas
+
+4. Cálculo
+	-Límites: función limit
+		-Límites laterales
+		-Tabla resumen de límites con MATLAB
+	-Diferenciación: función diff
+		-Derivada n-ésima (o de orden superior)
+		-Derivadas parciales
+			-Función symvar
+		-Derivadas parciales de orden superior
+		-Tabla resumen de diferenciación con MATLAB
+	-Integración: función int
+		-Integral indefinida
+		-Integra definida
+		-Tabla resumen de integrales con MATLAB
+		-Aclaración acerca de las integrales en MATLAB
+
+5. Ecuaciones diferenciales
+	-Ecuación diferencial ordinaria de primer orden: función dsolve
+		-Sin condiciones de frontera
+		-Con condiciones de frontera
+		-Tabla resumen de ecuaciones diferenciales ordinarias
+	-Ecuaciones diferenciales no lineales con condiciones de frontera
+	-Sistemas de ecuaciones lineales
+		-Sin condiciones de frontera
+		-Con condiciones de frontera
+
+***Resumen
+
+***Aclaración importante acerca de la graficación de expresiones simbólicas
+
+***Aclaración importante acerca de las funciones para el cálculo y ecuaciones diferenciales
